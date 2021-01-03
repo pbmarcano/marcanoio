@@ -5,7 +5,7 @@
 # in the templates via {{ site.metadata.myvariable }}.
 
 title: Peter Marcano
-tagline: Efficient software design & development
+tagline: Effective software design & development
 email: peter@marcano.io
 description: >- # this means to ignore newlines until "baseurl:"
   I work with start-ups and small businesses take a look at their business and leverage custom software to make more money — all within budget.
