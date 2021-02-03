@@ -9,3 +9,16 @@ tagline: Effective software design & development
 email: peter@marcano.io
 description: >- # this means to ignore newlines until "baseurl:"
   I work with start-ups and small businesses take a look at their business and leverage custom software to make more money — all within budget.
+
+social:
+  - name: Email
+    url: mailto:peter@marcano.io
+    local: true
+  - name: GitHub
+    url: https://github.com/pbmarcano
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/petermarcano
+  - name: RSS
+    url: https://marcano.io/feed
+  - name: Twitter
+    url: https://twitter.com/pbmarcano

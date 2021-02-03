@@ -1,0 +1,6 @@
+<article>
+  {{ thought.content }}
+  <a href="{{ thought.url }}">
+    {{ thought.date | date: "%I:%M %p &middot; %b %e, %Y" }}
+  </a>
+</article>

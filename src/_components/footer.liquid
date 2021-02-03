@@ -1,3 +1,13 @@
 <footer>
-  Contact me at {{ metadata.email }}
+  <ul>
+    {% for social in metadata.social %}
+      <li>
+        <a href="{{social.url}}" {% unless social.local %}target="_blank"{% endunless %}>{{social.name}}</a>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <span>
+    Copyright &copy; {{ time | date: "%Y" }} &middot; Marcano Ventures, LLC
+  </span>
 </footer>
