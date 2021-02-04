@@ -4,7 +4,9 @@ title: "Projects"
 ---
 {% for project in site.projects %}
   <article>
-    <h2>{{ project.title }}</h2>
-    <p>{{ project.content | markdownify }}</p>
+    <a href="{{ project.url }}">
+      <h2>{{ project.title }}</h2>
+    </a>
+    <p>{{ project.excerpt | markdownify }}</p>
   </article>
 {% endfor %}

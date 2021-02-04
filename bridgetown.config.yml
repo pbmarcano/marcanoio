@@ -23,4 +23,5 @@ permalink: pretty
 timezone: America/New_York
 
 collections:
-  - projects
+  projects:
+    output: true
