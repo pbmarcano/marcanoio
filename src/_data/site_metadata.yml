@@ -19,6 +19,6 @@ social:
   - name: LinkedIn
     url: https://www.linkedin.com/in/petermarcano
   - name: RSS
-    url: https://marcano.io/feed
+    url: /feed.xml
   - name: Twitter
     url: https://twitter.com/pbmarcano
