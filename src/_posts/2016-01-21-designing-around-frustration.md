@@ -23,9 +23,7 @@ For a second I thought Amazon ran out of semi-useless things to sell me. Then I 
 
 All the sudden, something made me giggle.
 
-<div class="wp-block-image">
-  <figure class="aligncenter size-large"><img loading="lazy" width="375" height="667" src="https://i0.wp.com/beta.marcano.io/wp-content/uploads/2019/11/designing_around_frustration_1.png?resize=375%2C667&#038;ssl=1" alt="amazon" class="wp-image-126" srcset="https://i0.wp.com/marcano.io/wp-content/uploads/2019/11/designing_around_frustration_1.png?w=375&ssl=1 375w, https://i0.wp.com/marcano.io/wp-content/uploads/2019/11/designing_around_frustration_1.png?resize=169%2C300&ssl=1 169w" sizes="(max-width: 375px) 100vw, 375px" data-recalc-dims="1" /></figure>
-</div>
+![Amazon loading screen saying 'beep-boop-beep'](/img/designing_around_frustration_1.png){:loading="lazy"}
 
 **Beep-boop-beep…**
 
