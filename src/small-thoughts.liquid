@@ -1,0 +1,9 @@
+---
+layout: page
+title: 'Short thoughts'
+---
+
+{% find shorts where site.posts, title == '' %}
+{% for post in shorts %}
+  {% render "thought", thought: post %}
+{% endfor %}

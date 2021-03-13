@@ -7,6 +7,6 @@ title: "Projects"
     <a href="{{ project.url }}">
       <h2>{{ project.title }}</h2>
     </a>
-    <p>{{ project.excerpt | markdownify }}</p>
+    {{ project.excerpt | markdownify }}
   </article>
 {% endfor %}
